@@ -4,6 +4,7 @@ quran android contributors
 ### code
 
 * [Ahmed El-Helw](https://twitter.com/ahmedre)
+* [Zakaria Makboul](https://github.com/mangaMag)
 * [Asim Mohiuddin](https://github.com/asimmohiuddin) - images, gapless audio
     and work on the Naskh version
 * [g360230](https://github.com/g360230) - images and work on the Qaloon
